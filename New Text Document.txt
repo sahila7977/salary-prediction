@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Asus\Desktop\salary prediction project\predict_page.py"
